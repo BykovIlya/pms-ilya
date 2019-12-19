@@ -1,0 +1,24 @@
+{
+  "admin": [
+    "create-user",
+    "read-user",
+    "update-user",
+    "delete-user"
+  ],
+  "manager": [
+    "admin-panel",
+    "create-worker",
+    "read-worker",
+    "update-worker",
+    "delete-worker",
+    "create-task",
+    "read-task",
+    "update-task",
+    "delete-task"
+  ],
+  "accountant": [
+    "admin-panel",
+    "read-worker",
+    "read-user"
+  ]
+}

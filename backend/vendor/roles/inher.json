@@ -1,0 +1,9 @@
+{
+  "admin": [
+    "manager",
+    "accountant"
+  ],
+  "manager": [
+    "accountant"
+  ]
+}
